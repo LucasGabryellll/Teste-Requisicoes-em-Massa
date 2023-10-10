@@ -1,0 +1,1 @@
+## Código simples para realizar requisições em massa para determinada URL da API.
